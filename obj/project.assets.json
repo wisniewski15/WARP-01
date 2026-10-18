@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s38035\\projekt1\\projekt1.csproj",
+      "projectUniqueName": "C:\\Users\\s38035\\Documents\\lab\\HelloWorkshop\\WARP-01\\projekt1.csproj",
       "projectName": "projekt1",
-      "projectPath": "C:\\Users\\s38035\\projekt1\\projekt1.csproj",
+      "projectPath": "C:\\Users\\s38035\\Documents\\lab\\HelloWorkshop\\WARP-01\\projekt1.csproj",
       "packagesPath": "C:\\Users\\s38035\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s38035\\projekt1\\obj\\",
+      "outputPath": "C:\\Users\\s38035\\Documents\\lab\\HelloWorkshop\\WARP-01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s38035\\AppData\\Roaming\\NuGet\\NuGet.Config"
