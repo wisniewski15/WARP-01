@@ -1,6 +1,6 @@
 # PROJEKT 1
 
 Nowy plik readme.md
-cvkl
-gfsdjklgjkldfg
-gsdfjiogj
+
+## kontakt
+autor: pawel wisniewski
